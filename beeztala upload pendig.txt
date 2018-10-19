@@ -1,2 +1,0 @@
-1.farmer union. include union_id
-2.login username passwrod included
